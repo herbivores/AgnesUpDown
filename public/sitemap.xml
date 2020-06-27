@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/blogs/</loc>
+    <lastmod>2019-04-28T21:05:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-04-28T21:05:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/hugo/</loc>
+    <lastmod>2019-04-28T21:05:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/hugo/</loc>
+    <lastmod>2019-04-28T21:05:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blogs/my-first-post/</loc>
+    <lastmod>2019-04-28T21:05:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-04-28T21:05:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ssg/</loc>
+    <lastmod>2019-04-28T21:05:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-04-28T21:05:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/themes/</loc>
+    <lastmod>2019-04-28T21:05:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/website/</loc>
+    <lastmod>2019-04-28T21:05:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/now/</loc>
+    <lastmod>2019-04-20T14:02:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2015-07-23-r-rmarkdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/r/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/r-markdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/regression/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2015-06-20T14:02:37+02:00</lastmod>
+  </url>
+  
+</urlset>
